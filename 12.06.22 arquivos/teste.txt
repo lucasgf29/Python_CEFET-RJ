@@ -1,0 +1,4 @@
+lucas, info, 13000 
+joao, quim, 10000
+pedro, mat, 1800 
+gabriel, ed fisica, 800
